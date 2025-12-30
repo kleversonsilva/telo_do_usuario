@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('./img2.jpg');  /**/
+    background-size: cover;
+    background-position: center;
+
+}
+
+.container{
+    width: 420px;
+    background-color: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);;
+    border-radius: 15px;
+    color: aliceblue;
+    padding: 30px 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+}
+
+.container h1 {
+    font-size: 36px;
+    text-align: center;
+
+}
+.input-box{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin: 30 0;
+}
+
+.input-box input{   /*Aqui esta entrndo nos inputs acima(input-box)*/
+    width:  100%;
+    height: 80%;
+    background-color: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+    border-radius: 40px;
+    outline: none;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px 45px 20px 20px;
+
+}
+
+.input-box input::placeholder{ /*cor de dentro de [usuario e senha]*/
+    color: #fff;
+}
+
+/*
+.input-box i{
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+}
+*/
+
+.remember-forgot{   /* separou [Lembrar senha] do [Esqueci a senha] */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;     /* Alinha verticalmente ao centro */
+    margin: 15px 0;         /* Adiciona um espaço em cima e embaixo */
+    font-size: 14.5px;      /* Ajusta o tamanho da fonte */
+    
+}
+
+
+
+.remember-forgot label input{  /* A cor do icone lembrar senha ficou branco */
+    accent-color: #fff;
+    margin-right: 5px;
+}
+.remember-forgot a{   /* cor de texto "esquecia a senha BRANCO" */
+    text-decoration: none;
+    color: #fff;
+}
+
+.login{   /*buscou o botão login*/
+    width: 100%;  /*largura*/
+    height: 50%;
+    background-color: #fff;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    font-weight: 600;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+
+}
+.login:hover{ /*pega o botao de login e muda a cor qudo passa o mouse em cima */
+    background-color: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+    color: #fff;
+    transition: 0.5s;
+
+}
+.register-link{   /*alinhando o Nao possui conta e Cadastre-se*/
+    font-size: 14px;
+    text-align: center;
+    margin: 40px 0 20;
+}
+
+.register-link a {   /*pegou a parte de [cadastre-se]*/
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+}
+.register-link a:hover{ /*inclui um anderline no [cadastre-se]*/
+    text-decoration: underline;
+}
