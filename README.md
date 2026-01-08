@@ -30,3 +30,12 @@ Para rodar este projeto localmente, siga os passos abaixo:
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+
+
+   ## Imagens da tela:
+![foto9](https://github.com/user-attachments/assets/3c8df394-d795-464d-ac38-5995f94493c9)
+
+##
+
+![foto9](https://github.com/user-attachments/assets/3c8df394-d795-464d-ac38-5995f94493c9)
+
