@@ -33,7 +33,8 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 
    ## Imagens da tela:
-![foto9](https://github.com/user-attachments/assets/3c8df394-d795-464d-ac38-5995f94493c9)
+![foto9]![cap1](https://github.com/user-attachments/assets/caf644c1-1d1d-4fe3-b2fa-c5bdaf9b2fdb)
+
 
 ##
 
