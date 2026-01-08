@@ -23,11 +23,10 @@ Uma interface de login moderna e responsiva, desenvolvida para praticar conceito
 
 ## 🚀 Como visualizar o projeto
 
-Para rodar este projeto localmente, siga os passos abaixo:
+![cap 2](https://github.com/user-attachments/assets/19d90a10-a87a-455f-b473-4d06e7b1f055)
 
 
 
-   ## Imagens da tela:
   
 
 
