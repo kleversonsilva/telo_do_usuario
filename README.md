@@ -1,7 +1,5 @@
 # 🚀 Login Dev - Tela do usuario UI
 
-* Visualização do projeto: https://github.com/user-attachments/assets/a87efa49-25bd-4c42-8ea5-9433464e6b40
-
 
 Uma interface de login moderna e responsiva, desenvolvida para praticar conceitos avançados de CSS, como o efeito **Glassmorphism** (vidro fosco) e design futurista com cores neon.
 
@@ -33,10 +31,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 
    ## Imagens da tela:
-![foto9]![cap1](https://github.com/user-attachments/assets/caf644c1-1d1d-4fe3-b2fa-c5bdaf9b2fdb)
+   [cap1](https://github.com/user-attachments/assets/caf644c1-1d1d-4fe3-b2fa-c5bdaf9b2fdb)
 
 
-##
-
-![foto9](https://github.com/user-attachments/assets/3c8df394-d795-464d-ac38-5995f94493c9)
 
