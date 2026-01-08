@@ -28,7 +28,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 
    ## Imagens da tela:
-   [cap1](https://github.com/user-attachments/assets/caf644c1-1d1d-4fe3-b2fa-c5bdaf9b2fdb)
+  
 
 
 
